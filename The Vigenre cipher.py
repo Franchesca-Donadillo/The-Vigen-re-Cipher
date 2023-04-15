@@ -13,3 +13,9 @@ console = Console(theme = theme_personalize)
 title = "The Vigenère Cipher\n"
 new_title = title.center(55).upper()
 console.print(new_title, style = "theTitle")
+
+# ask user for input message and key
+# print uppercase letters of the user input
+# generating the key 
+# encrypt text
+# print ciphertext
